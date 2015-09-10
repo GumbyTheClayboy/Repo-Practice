@@ -38,4 +38,5 @@
             </p>
         </div>
     </div>
+    <h1>Educated stupids must BURN WORD GOD in order to escape WORD SLAVERY. Cube 4X4 voids both 1 and God.</h1>
 </asp:Content>
